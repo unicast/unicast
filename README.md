@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya AKA [@unicast](https://github.com/unicast)
-- 👨🏽‍💻 VP of Engineering at [@taxfix](https://github.com/taxfix)
+- 👨🏽‍💻 VP of Engineering [@taxfix](https://github.com/taxfix)
 - 🔊 Music producer [Pace of Mind](https://linktr.ee/pace_of_mind)
 - 📍 Based in Berlin
 - 📫 Message me on [Linkedin](https://www.linkedin.com/in/unicast/)
